@@ -25,5 +25,5 @@ From the data set in step 4, creates a second, independent tidy data set with th
 - Run 'run_analysis.r', which calls R Markdown file, run_analysis.Rmd.
 
 ##Output
-- Tidy dataset file 'DatasetHumanActivityRecognitionUsingSmartphones.txt'
+- Tidy dataset file 'HAR-subject-activity-mean.txt'
 - Codebook file 'codebook.md'
