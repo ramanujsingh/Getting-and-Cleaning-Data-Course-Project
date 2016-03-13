@@ -1,5 +1,5 @@
 ---
-title: "r_analysis"
+title: "run_analysis"
 output: html_document
 ---
 
@@ -235,7 +235,7 @@ Make codebook.
 
 
 ```r
-knit("makeCodebook.Rmd", output = "codebook.md", encoding = "ISO8859-1", quiet = TRUE)
+knit("run_analysis.Rmd", output = "codebook.md", encoding = "ISO8859-1", quiet = TRUE)
 ```
 
 ```r
